@@ -1,5 +1,5 @@
 
-# Snake-game-Python
+## Snake-game-Python
 This simple snake game uses a turtle  module, I created this using core Python.
 
 
